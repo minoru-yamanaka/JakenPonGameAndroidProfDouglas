@@ -33,4 +33,9 @@ O "Jogo" é uma implementação simples do clássico jogo "Pedra, Papel e Tesour
 
    ---
 
-   Agradeço ao [Professor Douglas](linkedin.com/in/douglas-dos-reis-3473a868) pela oportunidade de desenvolver este aplicativo de forma divertida e dinâmica em sala de aula. Essa experiência agregou significativamente ao meu conhecimento, enriquecendo a minha jornada de aprendizado.
+   Agradeço ao [Professor Douglas](linkedin.com/in/douglas-dos-reis-3473a868) pela oportunidade de desenvolver 📱 este aplicativo de forma divertida e dinâmica em sala de aula. Essa experiência agregou significativamente ao meu conhecimento, enriquecendo a minha jornada de aprendizado. 🙏🚀
+
+
+
+
+
